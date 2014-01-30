@@ -7,7 +7,6 @@
 /README -text
 /apertium-glv.glv.dix -text
 /apertium-glv.glv.rlx -text
-/apertium-glv.pc -text
 /apertium-glv.pc.in -text
 /autogen.sh -text
 /configure.ac -text
