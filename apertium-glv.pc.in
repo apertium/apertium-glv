@@ -1,7 +1,10 @@
-prefix=/home/fran/local
+prefix=@prefix@
 exec_prefix=${prefix}
-libdir=${exec_prefix}/lib
+libdir=@libdir@
+dir=@libdir@/apertium/apertium-glv
+srcdir=@datarootdir@/apertium/apertium-glv
 
 Name: apertium-glv
 Description: Finite-state morphological transducer and constraint grammar for Manx 
-Version: 0.1.0
+Version: @VERSION@
+
