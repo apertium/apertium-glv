@@ -5,9 +5,12 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
+/apertium-glv.glv.acx -text
 /apertium-glv.glv.dix -text
 /apertium-glv.glv.rlx -text
 /apertium-glv.pc.in -text
+/apertium-glv.post-glv.dix -text
 /autogen.sh -text
 /configure.ac -text
+/glv.prob -text
 /modes.xml -text
